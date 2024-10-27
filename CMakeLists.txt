@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.11)
 
-project(TransportCatalogue CXX)
+project("transport_catalogue" CXX)
 set(CMAKE_CXX_STANDARD 17) 
 
 set(SOURCES_DIR "sources")
